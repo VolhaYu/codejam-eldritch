@@ -1,2 +1,8 @@
-# codejam-eldritch  
+# codejam-eldritch
+
+небольшое приложение-хелпер для настольной игры "Древний Ужас"
+
+Ключевые навыки:
+создание сложного алгоритма замешивания колоды
+
 https://volhayu.github.io/codejam-eldritch/
